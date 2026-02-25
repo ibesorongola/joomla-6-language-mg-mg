@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="package" method="upgrade" version="6.0">
+    <name>Malagasy (mg-MG) Language Package</name>
+    <packagename>mg-MG</packagename>
+    <version>__VERSION__</version>
+    <creationDate>__DATE__</creationDate>
+    <author>Ranaivomanantsoa - Malagasy translation team</author>
+    <authorEmail>ibesorongola@gmail.com</authorEmail>
+    <authorUrl>https://rdb.mg</authorUrl>
+    <copyright>Copyright (C) Ranaivomanantsoa. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later</license>
+    <description>Package de langue malgache (mg-MG) pour Joomla! 6.x</description>
+    <blockChildUninstall>true</blockChildUninstall>
+    <files>
+        <folder type="language" client="site" id="mg-MG">language</folder>
+        <folder type="language" client="administrator" id="mg-MG">administrator/language</folder>
+        <folder type="language" client="api" id="mg-MG">api/language</folder>
+        <!-- Le dossier installation est absent du pack source, on ne l'inclut pas -->
+    </files>
+    <updateservers>
+        <server type="collection" priority="1" name="mg-MG Lang Updates">
+            https://raw.githubusercontent.com/ibesorongola/joomla-6-language-mg-mg/main/translationlist_mg-MG.xml
+        </server>
+    </updateservers>
+</extension>
