@@ -11,8 +11,8 @@ define('TRANSLATION_LIST', __DIR__ . '/translationlist_mg-MG.xml');
 define('DETAILS_FILE', __DIR__ . '/details_mg-MG_pkg.xml');
 define('GITHUB_REPO', 'ibesorongola/joomla-6-language-mg-mg'); // À MODIFIER
 define('GITHUB_BRANCH', 'main');
-define('AUTHOR_NAME', 'Ranaivomanantsoa Harilanto - Malagasy translation team'); // À MODIFIER
-define('AUTHOR_EMAIL', 'votre.email@exemple.com'); // À MODIFIER
+define('AUTHOR_NAME', 'Ranaivomanantsoa Harilanto'); // À MODIFIER
+define('AUTHOR_EMAIL', 'ibesorongola@gmail.com'); // À MODIFIER
 define('AUTHOR_URL', 'https://rdb.mg'); // À MODIFIER
 
 // ------------------------------------------------------------
