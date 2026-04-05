@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensionset name="Malagasy (mg-MG) Language Updates" description="Malagasy (mg-MG) Joomla core language pack updates">
-    <extension name="Malagasy (mg-MG) Language Package" element="pkg_mg-MG" type="package" version="6.0.3.2" detailsurl="https://raw.githubusercontent.com/ibesorongola/joomla-6-language-mg-mg/main/details_mg-MG_pkg.xml"/>
+    <extension name="Malagasy (mg-MG) Language Package" element="pkg_mg-MG" type="package" version="6.0.4.1" detailsurl="https://raw.githubusercontent.com/ibesorongola/joomla-6-language-mg-mg/main/details_mg-MG_pkg.xml"/>
     </extensionset>
